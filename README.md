@@ -1,5 +1,5 @@
 # CheckMernis
-Java SOLID Implementation Demo
+SOLID principles Implementation Demo
 (**we want coffee to be sold without authentication for starbucks**)
 
 MERNIS is an authentication service.
