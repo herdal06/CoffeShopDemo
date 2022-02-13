@@ -2,7 +2,7 @@
 Java SOLID Implementation Demo
 (**we want coffee to be sold without authentication for starbucks**)
 
-MERNIS is a authentication service.
+MERNIS is an authentication service.
 
 ## MERNIS setup for Intellij IDEA
 1. File -> Settings -> Plugins -> Search for EASYWSDL Generator and download.
